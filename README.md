@@ -10,10 +10,16 @@ This repository contains supplementary materials accompanying the paper "Explori
 - **AI Simulations/Questionnaire.pdf**
   Contains the PDF version of the questionnaire attached to each ChatGPT simulation
 
+- **Code/**
+  Contains the Python code used to draw graphs and clusterize data. 
 
-## Replicating the Experiment
+- **Data/**
+  Contains the data related to the output of the questionnaire and the clusterization process.
+  
 
-To replicate the experiment, follow these steps:
+## Replicating the AI Experiment
+
+To replicate the AI experiment, follow these steps:
 
 1. **Access ChatGPT Plus:**
    Ensure you have access to ChatGPT Plus, as file upload capabilities and GPT-4o functionalities are necessary.

@@ -1,0 +1,311 @@
+Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21
+25-34 years old,Geography,Yes,4,4,4,3,5,2,2,3,3,4,4,,4,3,3,5,4,5
+25-34 years old,Theatre studies,No,5,5,4,3,4,2,3,2,5,3,5,2,3,3,2,2,4,4
+45-54 years old,Digital Humanities,No,1,4,4,2,2,1,1,4,4,3,5,4,4,4,1,1,1,1
+65-74 years old,International relations,No,1,2,1,3,3,2,2,2,2,4,3,1,2,2,1,2,2,2
+25-34 years old,Communication ,Yes,5,5,3,3,3,2,3,3,3,2,3,2,4,4,4,4,4,4
+25-34 years old,History & Digital Humanitiesq,Yes,5,5,4,3,3,3,3,4,3,3,3,2,3,3,4,4,4,4
+35-44 years old,librarianship,No,4,4,3,4,4,4,2,4,4,4,3,1,2,4,4,4,5,5
+25-34 years old,Digital humanities,Yes,3,4,5,4,5,3,2,3,5,3,3,3,4,5,5,4,5,3
+25-34 years old,Computer science,No,5,5,5,5,5,2,3,4,5,3,3,2,4,4,5,2,4,2
+25-34 years old,Linguistics,Yes,2,5,4,3,4,2,4,2,4,3,3,2,2,3,4,4,3,3
+18-24 years old,,Yes,3,4,4,3,3,3,4,4,3,3,3,3,4,4,4,3,4,4
+35-44 years old,DH,Yes,3,4,2,3,3,3,2,3,5,4,5,4,4,5,4,5,5,5
+35-44 years old,Philosophy ,No,3,4,4,2,3,2,1,2,2,3,2,2,3,2,2,2,2,3
+25-34 years old,Digital Humanities ,No,2,3,2,2,2,4,2,3,4,4,2,2,2,3,2,4,3,4
+25-34 years old,Cultural heritage enjoyment,No,4,4,4,4,4,4,2,3,3,3,4,3,4,4,2,3,4,5
+25-34 years old,Modern Languages,No,5,5,3,4,2,3,1,2,2,2,2,3,4,4,2,5,4,5
+35-44 years old,Italian Philology,No,3,3,3,4,3,3,2,2,2,2,2,2,2,2,2,2,1,1
+55-64 years old,History,Yes,4,4,2,3,2,2,4,5,3,2,2,3,4,4,4,4,5,3
+25-34 years old,Digital Humanities,No,1,4,3,4,2,2,2,2,3,3,3,4,3,2,1,5,2,3
+35-44 years old,Exercise Science ,Yes,4,5,3,4,3,5,4,4,4,2,3,2,4,4,4,3,4,4
+18-24 years old,,Yes,2,4,1,5,4,3,4,1,2,5,3,3,5,3,3,3,3,3
+35-44 years old,Exercise science ,Yes,4,4,2,4,4,4,4,4,5,2,3,2,3,3,4,4,4,4
+18-24 years old,Sports management ,Yes,3,3,2,4,3,3,3,3,3,4,3,3,3,3,3,3,3,3
+45-54 years old,Project Coordination/Management // C-Suite Administration ,No,3,3,3,3,3,3,2,4,4,4,3,2,3,3,2,2,3,3
+18-24 years old,Spanish- Bachelor of Arts ,No,3,4,2,3,4,4,3,4,5,3,2,2,3,3,2,2,3,4
+18-24 years old,None ,No,1,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+35-44 years old,Electrician,No,5,3,4,3,4,4,4,4,4,3,3,3,3,3,2,4,3,4
+45-54 years old,Psychology ,No,1,2,3,3,4,1,1,1,2,4,3,5,4,2,1,3,4,4
+25-34 years old,Pre vet,No,4,4,2,5,5,5,1,3,5,3,1,2,3,3,3,2,2,2
+18-24 years old,Early Childhood EDU,No,1,1,1,1,4,2,1,2,3,3,3,3,2,2,1,1,1,1
+18-24 years old,Nursing,No,1,3,2,3,2,2,2,3,2,3,2,2,3,3,3,4,4,3
+25-34 years old,,Yes,2,4,2,3,2,2,2,3,3,4,3,4,4,2,3,3,3,3
+45-54 years old,Medical,No,5,5,5,5,5,5,3,3,1,5,5,3,5,5,5,1,1,1
+45-54 years old,Mr.sc.,No,5,5,5,4,4,5,4,4,3,3,4,3,4,4,3,1,1,3
+25-34 years old,Behavioral Science,No,3,4,3,2,3,1,1,2,2,4,3,3,3,2,2,2,1,2
+45-54 years old,CS,No,3,4,3,2,4,2,2,3,2,4,3,3,3,4,2,4,4,4
+45-54 years old,Information Technology ,No,4,5,4,4,4,4,3,4,5,5,3,3,3,4,4,4,4,4
+45-54 years old,Human Factors,No,3,4,4,5,4,4,3,4,3,4,4,4,3,4,1,2,3,2
+55-64 years old,Environmental/Social Sciences,Yes,2,4,4,3,4,3,3,4,3,4,4,3,3,4,4,3,3,3
+18-24 years old,b.a,Yes,4,4,3,4,3,4,3,5,3,4,4,3,2,2,3,4,4,5
+25-34 years old,COMPUTER SCIENCE,Yes,4,3,4,4,3,5,3,5,4,3,5,4,5,4,5,5,4,4
+25-34 years old,major,Yes,4,5,3,3,2,5,4,4,3,4,2,5,4,5,5,5,5,4
+35-44 years old,IT,Yes,4,4,3,5,4,3,5,4,3,4,4,4,5,4,5,4,4,3
+25-34 years old,Computer Science,Yes,4,5,4,3,4,5,4,3,4,4,5,3,4,3,4,4,3,4
+25-34 years old,information technology,No,4,5,4,4,5,3,5,3,5,4,5,3,5,5,5,5,4,5
+25-34 years old,Computer Science,Yes,4,5,4,4,5,3,4,5,4,3,5,4,3,4,5,4,5,4
+25-34 years old,computer application,Yes,3,4,3,3,4,2,3,3,3,2,5,4,3,2,3,5,3,4
+18-24 years old,men,Yes,5,4,5,5,4,5,4,5,4,5,4,5,4,5,4,5,4,5
+25-34 years old,computer science ,No,5,4,5,4,3,5,5,4,5,4,5,5,4,4,5,5,4,5
+25-34 years old,bachelor degree,Yes,4,5,4,3,5,3,4,5,4,5,4,5,5,4,3,5,4,5
+25-34 years old,BACHELOR'S DEGREE,No,4,4,3,4,4,4,3,4,3,4,4,4,3,4,3,4,4,4
+25-34 years old,"Your major refers to the academic field you will study,",Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+25-34 years old,Computer science,No,4,5,4,5,4,5,4,5,4,5,5,4,5,5,4,5,4,5
+25-34 years old,usa,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4
+25-34 years old,it,Yes,4,4,3,4,4,4,4,3,4,4,3,4,3,4,4,4,3,4
+25-34 years old,computer science,No,5,4,5,4,5,3,5,4,3,5,4,5,5,5,4,5,4,5
+25-34 years old,Computer Science,Yes,3,4,4,4,4,4,3,4,5,4,5,4,5,4,4,4,3,4
+25-34 years old,computer science,No,4,5,4,5,4,5,3,5,4,5,5,4,5,4,5,5,4,5
+25-34 years old,IT,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+25-34 years old,teacher,Yes,5,4,5,4,5,3,4,2,4,3,5,2,4,3,5,3,4,5
+25-34 years old,computer science,Yes,3,3,4,3,4,3,4,3,4,3,4,3,4,4,3,4,4,4
+25-34 years old,CHEMISTRY,Yes,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,5,4
+25-34 years old,Information technology,Yes,4,4,5,4,4,4,3,4,3,4,4,3,4,4,3,4,4,4
+25-34 years old,computer science,No,4,5,4,5,5,3,5,3,5,3,5,5,3,5,4,5,5,3
+35-44 years old,Health Care,Yes,3,4,4,4,3,4,4,4,3,4,4,4,3,4,4,4,3,4
+25-34 years old,information technolgy,Yes,3,2,2,2,3,2,3,2,3,2,2,2,1,2,3,2,3,3
+25-34 years old,computer science,Yes,4,4,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,4
+25-34 years old,teacher,Yes,2,4,4,3,5,4,4,3,5,1,5,5,2,3,5,5,2,5
+25-34 years old,computer science,No,5,3,5,5,4,5,5,3,5,4,5,3,5,5,4,5,4,5
+25-34 years old,computer science ,No,5,4,5,4,5,4,5,5,4,3,5,4,5,4,5,5,5,4
+25-34 years old,computer science,No,5,4,5,5,4,5,2,4,5,5,4,3,5,5,4,5,4,5
+25-34 years old,Computer science,Yes,4,3,5,4,3,5,4,3,4,4,3,4,4,5,4,4,3,4
+25-34 years old,computer science ,No,4,5,4,5,4,5,5,3,4,5,5,4,5,4,5,5,4,5
+25-34 years old,it,Yes,4,3,4,4,4,3,4,4,3,3,3,3,4,4,3,4,4,4
+25-34 years old,computer science,No,5,3,5,5,4,5,4,5,5,3,5,4,5,4,5,5,3,5
+25-34 years old,IT,Yes,4,3,4,4,4,5,4,4,3,4,4,5,4,4,3,4,3,4
+25-34 years old,computer science ,No,4,5,5,4,5,4,5,5,4,5,5,4,5,4,5,5,5,4
+25-34 years old,Computer Science,No,5,4,3,4,3,4,3,4,5,4,5,4,5,3,4,5,4,3
+25-34 years old,teacher,Yes,5,4,5,4,5,4,1,5,4,3,2,5,3,3,5,3,3,5
+25-34 years old,computer science ,No,4,5,4,4,5,5,4,5,5,4,5,5,4,4,5,5,4,5
+25-34 years old,Bachelor's degree,Yes,4,4,5,4,3,4,4,2,3,3,4,3,4,4,4,4,4,4
+25-34 years old,Computer science ,No,4,5,5,5,4,5,5,4,5,5,5,4,5,4,5,5,4,5
+25-34 years old,computer science,No,5,4,5,5,4,5,5,3,5,4,5,5,3,5,4,5,4,5
+25-34 years old,xomputer science,Yes,4,4,3,4,3,4,5,4,3,4,3,5,4,4,4,4,4,4
+25-34 years old,computer science,No,5,4,5,5,3,5,5,4,5,3,5,5,3,5,4,5,4,5
+25-34 years old,computer science,No,5,4,5,5,4,5,3,5,4,5,4,5,4,5,4,5,4,5
+25-34 years old,Bachelor's degree,Yes,5,4,3,4,3,4,4,3,4,3,4,3,4,4,4,4,4,4
+25-34 years old,computer science,No,4,5,4,5,4,5,3,5,4,5,3,5,5,4,5,5,4,5
+35-44 years old,civil ,Yes,4,5,4,4,5,3,3,4,3,4,4,4,3,4,4,4,4,5
+25-34 years old,Computer science ,Yes,4,5,3,4,4,3,5,4,3,4,4,3,4,5,4,4,3,4
+25-34 years old,BCB,Yes,5,2,3,1,3,2,4,1,2,5,3,1,4,1,5,5,2,1
+25-34 years old,Computer science ,No,4,5,3,4,5,3,4,4,3,3,4,5,4,4,4,4,4,3
+18-24 years old,computer,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5
+25-34 years old,IT,Yes,4,3,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4
+18-24 years old,,Yes,4,2,4,2,4,1,4,3,2,4,3,5,4,4,2,4,2,5
+25-34 years old,Computer Science. ,Yes,4,5,4,4,4,4,2,4,4,2,4,2,4,4,4,4,5,4
+25-34 years old,Computer Science,No,4,4,5,4,5,3,4,4,5,3,4,4,5,4,5,4,5,4
+25-34 years old,Computer Science,No,4,5,3,5,4,4,3,4,5,4,4,5,4,4,5,4,4,5
+25-34 years old,Computer Science,No,5,4,3,4,3,4,5,4,3,4,4,3,4,4,3,4,5,4
+35-44 years old,Science,Yes,5,5,5,5,5,4,4,4,5,4,5,4,4,4,5,4,5,3
+35-44 years old,Information Technology,Yes,4,5,4,3,4,5,4,4,5,4,4,4,3,5,3,4,4,5
+35-44 years old,civil,Yes,3,2,4,3,5,3,3,5,3,4,4,3,4,4,3,4,5,4
+25-34 years old,ENGINEERING,Yes,4,3,4,4,4,3,3,5,4,3,4,4,3,4,5,4,4,4
+25-34 years old,inormaion,Yes,4,4,5,4,4,3,3,4,3,4,3,4,4,4,4,4,5,4
+25-34 years old,COMPUTER SCIENCE,Yes,5,3,4,5,3,4,5,3,4,5,4,5,4,5,3,5,4,3
+25-34 years old,COMPUTER SCEINCE,Yes,5,4,4,3,5,4,3,5,4,3,4,4,3,4,3,4,5,5
+25-34 years old,COMPUTER SCIENCE,Yes,5,3,4,4,3,4,5,4,3,4,5,4,3,4,3,4,4,4
+45-54 years old,software,No,3,4,4,4,3,4,3,3,4,4,5,3,3,4,4,5,4,3
+25-34 years old,Computer Science,Yes,4,3,5,4,3,4,5,3,4,5,4,5,3,4,5,4,5,3
+25-34 years old,COMPUTER SCIENCE,Yes,5,3,5,4,4,3,5,4,3,3,5,5,4,3,4,4,5,4
+25-34 years old,Computer science,No,4,3,4,4,4,3,5,3,4,4,4,3,4,4,5,4,4,5
+25-34 years old,computerscicen,Yes,4,3,4,3,5,4,5,5,5,4,5,5,4,3,4,5,5,4
+35-44 years old,Meterology,Yes,4,3,5,4,5,3,4,5,3,4,5,3,4,4,5,5,4,4
+25-34 years old,HEALTH CARE,Yes,4,5,4,4,5,4,5,5,4,5,4,5,4,5,4,4,4,5
+25-34 years old,computer application,Yes,4,3,4,2,4,5,3,3,2,4,5,3,2,3,4,2,4,3
+18-24 years old,mathematicals,Yes,3,2,4,2,5,3,1,4,1,4,4,3,5,2,4,3,3,3
+25-34 years old,Computer Science,Yes,4,3,5,3,5,4,3,5,4,4,5,3,4,4,5,4,5,4
+25-34 years old,IT,Yes,4,3,4,4,4,5,4,5,4,5,4,5,4,4,3,4,4,4
+25-34 years old,Computer Science,Yes,4,5,3,3,5,4,3,5,4,3,5,4,3,3,5,4,5,4
+25-34 years old,4 years collage degree ,Yes,4,3,4,4,3,4,3,4,3,3,4,4,3,4,3,4,4,4
+45-54 years old,10,Yes,3,4,3,2,4,3,4,3,4,3,4,3,4,3,4,3,,4
+35-44 years old,,Yes,4,4,4,4,3,4,3,5,5,4,3,4,4,5,3,4,5,3
+25-34 years old,maths,Yes,4,3,4,3,3,4,4,5,2,4,3,5,2,4,2,5,4,4
+25-34 years old,information technology,Yes,4,3,5,4,3,3,5,4,3,5,3,4,5,3,4,4,5,5
+25-34 years old,IT,Yes,4,3,4,4,4,2,3,4,4,4,4,4,5,4,3,4,5,4
+25-34 years old,machanincal,Yes,4,5,4,4,5,4,4,5,4,5,4,5,4,4,5,4,5,4
+25-34 years old,IT,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+25-34 years old,Manufacturing,Yes,4,3,4,3,5,4,3,4,3,5,3,5,4,3,4,3,3,4
+25-34 years old,IT,Yes,3,3,4,4,3,4,4,5,4,4,4,4,4,4,5,4,4,4
+45-54 years old,engineering,Yes,5,4,5,4,5,3,4,4,4,4,4,5,4,4,4,5,4,4
+25-34 years old,Bachelor's degrees,No,4,3,4,3,4,3,4,3,4,4,3,4,3,3,4,3,3,3
+35-44 years old,health care,Yes,5,5,4,5,5,5,4,5,4,5,5,4,5,5,5,5,5,5
+25-34 years old,ENGINEERING,Yes,5,4,5,4,5,4,3,4,5,4,5,4,5,4,4,5,4,5
+25-34 years old,Manufacturing,Yes,3,5,4,3,5,4,5,3,5,3,4,5,2,3,4,4,3,4
+25-34 years old,IT,Yes,4,3,4,4,4,5,4,4,4,5,4,3,4,4,3,4,5,4
+25-34 years old,HEALTH CARE,Yes,5,4,5,5,5,4,5,4,5,4,5,5,4,5,4,5,5,5
+25-34 years old,,Yes,4,5,5,5,5,4,5,5,4,4,5,4,5,4,5,4,4,4
+25-34 years old,Computer science,No,4,4,3,4,4,5,4,5,3,3,4,4,5,4,5,4,5,4
+25-34 years old,mathematics,Yes,5,5,5,4,4,4,4,5,4,3,4,4,5,4,4,4,4,4
+25-34 years old,,Yes,5,5,5,5,5,5,4,5,4,5,5,4,5,5,5,5,5,5
+25-34 years old,Computer Science,No,4,4,4,4,5,4,2,4,4,4,4,4,5,4,4,5,4,4
+25-34 years old,managment,Yes,4,5,4,4,3,4,5,4,5,3,5,4,5,3,4,5,4,4
+25-34 years old,HELTH HAIR,Yes,5,4,5,5,4,5,4,5,5,4,5,4,5,5,4,4,4,5
+25-34 years old,,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,5,5,4,4,5
+25-34 years old,Engineering,Yes,5,5,4,4,3,4,4,5,4,4,5,2,4,5,4,5,5,5
+25-34 years old,BACHELOR'S DEGREE,No,3,4,4,4,4,4,4,3,4,3,4,3,4,3,2,3,3,3
+25-34 years old,Computer Science,No,4,3,5,4,3,5,3,4,5,4,5,4,5,4,5,4,5,3
+25-34 years old,Health care,Yes,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,5,5
+25-34 years old,Computer Science,Yes,4,3,4,4,4,5,2,4,4,4,4,4,5,4,4,5,4,4
+25-34 years old,Computer Science.,No,4,4,5,4,4,4,2,4,4,3,4,4,4,4,4,4,4,5
+25-34 years old,managment,Yes,4,3,4,4,4,5,3,5,4,5,4,5,4,4,5,4,5,4
+35-44 years old,HELTH HAIR,Yes,5,4,5,5,4,5,4,5,4,4,5,4,5,4,5,5,4,5
+25-34 years old,Health care,Yes,4,5,5,5,4,5,5,5,5,4,5,5,4,4,5,5,4,5
+45-54 years old,10,Yes,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4,4,4,4
+35-44 years old,Health care,Yes,5,4,5,5,5,5,5,4,5,5,4,5,4,5,4,5,5,5
+25-34 years old,Health care,Yes,5,4,5,5,5,4,4,5,5,4,5,4,5,4,5,5,5,4
+25-34 years old,,Yes,4,5,4,5,4,5,4,5,4,5,5,4,5,5,4,5,4,5
+25-34 years old, SELF EMPLOYE,Yes,5,4,4,5,4,5,5,4,4,5,4,5,4,4,4,4,4,5
+25-34 years old,COMPUTER,Yes,4,5,4,4,5,4,5,3,4,4,4,5,4,4,5,5,4,4
+35-44 years old,BACHLOR DEGREE,No,3,4,4,4,4,3,4,4,3,4,4,3,3,4,3,5,3,5
+25-34 years old,Health care,Yes,5,4,5,4,5,4,4,5,5,4,5,5,4,5,4,5,4,5
+35-44 years old,Health care,Yes,4,5,5,4,4,4,4,4,3,5,3,4,4,5,5,5,5,5
+35-44 years old,maths,Yes,4,4,5,5,4,4,5,5,4,5,4,4,5,4,5,5,4,5
+25-34 years old,information tenhonugy,Yes,3,3,4,2,4,2,3,2,3,3,2,4,2,2,3,3,2,3
+25-34 years old,helth hair,Yes,5,4,5,5,4,5,4,5,5,4,5,4,5,5,4,4,5,4
+25-34 years old,,Yes,3,2,3,3,4,3,3,3,2,3,3,4,4,1,3,3,3,4
+75 years or older,psychology,No,4,3,4,2,4,2,1,2,3,3,4,2,3,3,1,4,4,4
+25-34 years old,Bachelor of science,Yes,4,3,4,4,3,4,5,4,4,3,4,5,4,5,4,5,4,4
+25-34 years old,Economics,No,4,3,5,5,4,4,3,5,4,5,4,3,5,4,3,5,4,3
+25-34 years old,Electronics,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+45-54 years old,10,Yes,3,4,3,3,4,3,4,3,4,3,4,2,4,4,3,4,3,4
+25-34 years old,Health care,Yes,4,5,5,5,4,5,5,4,5,4,5,5,4,5,5,5,5,4
+18-24 years old,Political science,No,5,4,5,5,4,4,5,3,4,4,3,5,4,4,3,4,5,3
+45-54 years old,20,Yes,4,3,4,2,4,3,4,4,3,4,3,4,3,3,4,4,3,3
+25-34 years old,metrology,Yes,5,4,4,3,2,3,3,2,3,2,2,3,2,3,2,4,4,4
+18-24 years old,BUSSINESS,Yes,5,4,5,5,4,5,5,5,4,5,5,4,5,4,5,5,5,5
+25-34 years old,BA Economics,No,4,3,5,5,3,4,3,5,4,5,4,5,3,4,5,4,5,4
+25-34 years old,software engineering,Yes,4,4,4,4,4,5,4,5,4,4,5,4,4,3,5,5,4,4
+25-34 years old,Computer Science,Yes,4,4,5,4,4,4,2,4,4,4,5,4,4,4,4,4,4,
+25-34 years old,DATA STORYTELLING,No,4,4,3,3,3,3,3,3,3,3,3,3,3,4,3,5,5,5
+45-54 years old,maneger,Yes,4,5,4,3,4,3,4,3,4,3,4,3,4,3,4,4,4,5
+25-34 years old,bachelor of degree,Yes,5,4,5,5,5,4,5,5,4,5,5,4,5,5,4,5,5,5
+25-34 years old,metrology,Yes,3,4,3,4,4,3,4,3,4,3,4,4,4,4,2,4,5,5
+25-34 years old,Software Engineering,Yes,4,5,4,5,4,5,4,4,5,5,4,4,4,5,4,5,5,4
+45-54 years old,20,Yes,3,4,3,3,4,3,4,3,4,3,4,2,3,3,4,4,4,4
+45-54 years old,master,Yes,3,4,4,3,4,3,3,3,3,3,3,3,3,4,3,3,3,4
+45-54 years old,10,Yes,4,4,4,3,4,3,3,3,4,4,3,4,3,4,3,4,4,4
+25-34 years old,health care,Yes,4,4,4,5,4,4,4,4,5,4,4,5,5,5,5,5,5,5
+45-54 years old,master,Yes,4,4,3,5,4,4,3,5,4,5,3,4,4,3,4,4,3,4
+18-24 years old,maths,Yes,3,2,3,2,3,2,3,3,3,2,4,2,3,2,3,3,3,2
+55-64 years old,Civil Engineering,No,2,1,3,1,1,2,1,1,2,2,3,3,2,1,1,2,1,1
+25-34 years old,HEALTH CARE,Yes,5,4,5,5,5,4,5,4,5,4,5,4,5,5,5,5,5,5
+18-24 years old,maths,Yes,3,3,3,2,2,3,3,3,2,3,3,2,4,3,2,2,3,2
+25-34 years old,iNFORMATION,Yes,4,3,5,3,4,2,5,2,4,2,5,2,4,5,3,4,5,4
+25-34 years old,,Yes,4,5,4,4,5,4,5,5,4,5,5,5,4,5,4,4,2,2
+65-74 years old,BSC ,No,3,4,1,5,5,5,4,2,2,3,1,4,3,4,3,4,1,2
+25-34 years old,,Yes,5,4,5,5,5,4,5,4,5,4,5,5,4,5,4,5,5,5
+25-34 years old,Health care,Yes,5,5,4,5,5,4,5,4,5,5,4,5,5,5,5,5,5,5
+25-34 years old,data storytell,Yes,3,4,2,3,3,4,4,4,4,2,5,3,1,1,3,4,3,3
+25-34 years old,Health care,Yes,5,4,5,5,5,4,5,4,5,5,5,4,5,5,5,5,5,5
+25-34 years old,,Yes,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4
+25-34 years old,IT,Yes,4,4,4,4,4,4,3,4,4,4,4,3,4,4,4,4,4,3
+45-54 years old,degree,Yes,3,4,3,3,4,3,4,3,4,4,4,4,3,3,3,4,4,3
+25-34 years old,DATA STORYTELLING SURVEY,Yes,3,4,2,5,1,5,4,3,5,1,2,4,3,3,2,2,5,1
+25-34 years old,,Yes,5,4,3,5,2,3,4,4,5,4,5,4,5,4,5,4,5,3
+25-34 years old,DATA STORYTELLING SURVEY,Yes,1,4,5,2,2,1,3,5,5,4,2,3,3,3,4,5,1,2
+25-34 years old,data storytelling,Yes,3,5,3,5,4,4,4,5,4,5,3,4,5,5,4,5,5,3
+25-34 years old,DATA STORYTELLING SURVEY,Yes,1,4,2,1,3,4,2,2,3,3,4,5,5,3,3,5,1,2
+25-34 years old,HEALTH CARE,Yes,5,4,5,5,4,5,4,5,4,5,4,5,4,5,5,5,5,5
+25-34 years old,HEALTH CARE,Yes,5,5,5,5,5,4,5,5,4,5,5,5,5,5,4,5,4,5
+25-34 years old,Medical,Yes,4,3,5,4,4,5,4,5,3,4,5,4,4,4,4,4,4,5
+25-34 years old,HEALTH CARE,Yes,5,5,5,5,5,4,5,4,5,4,5,4,5,5,4,5,5,5
+25-34 years old,becholoer dgree,Yes,3,3,3,3,3,5,3,5,2,5,2,1,1,2,2,3,,3
+25-34 years old,HEALTH CARE,Yes,5,4,5,5,4,5,4,5,4,5,4,5,4,5,5,5,5,5
+25-34 years old,IT,Yes,3,4,4,3,4,4,4,4,4,4,4,4,3,4,3,4,3,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,3,4,4,4,4,5,5,4,4
+25-34 years old,bechloer dgree,Yes,5,2,2,4,2,1,2,4,2,1,2,4,1,4,2,3,3,2
+35-44 years old,health care,Yes,5,4,5,5,5,3,3,4,4,4,4,4,4,4,4,5,5,5
+25-34 years old,Health care,Yes,5,4,5,5,4,5,5,4,5,4,4,5,4,5,5,5,5,5
+25-34 years old,data storytelling,Yes,4,5,4,4,3,5,4,3,3,3,2,4,4,4,4,5,5,5
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,4,5,5,4,4,5,4,5,4,5,4
+25-34 years old,physics,Yes,4,4,5,4,5,4,5,4,5,4,4,4,5,4,5,4,,4
+25-34 years old,storytelling,Yes,5,4,4,4,4,3,4,4,4,4,4,5,5,4,3,3,5,5
+25-34 years old,IT,Yes,4,3,5,4,3,2,5,3,4,3,4,3,5,3,5,5,4,4
+25-34 years old,bechloer dgree,Yes,2,1,2,5,1,2,5,2,5,1,2,5,1,5,4,2,3,3
+25-34 years old,dara stoytelling,Yes,3,4,5,4,5,4,5,4,5,4,5,5,4,4,4,5,4,5
+25-34 years old,storytelling,Yes,5,3,5,4,5,4,5,5,4,5,4,5,3,4,5,4,5,5
+25-34 years old,datav stoytelling,Yes,4,3,5,4,4,5,5,5,5,4,5,5,4,5,4,4,5,3
+25-34 years old,DATA STORYTELLING SURVEY,Yes,2,4,3,1,5,4,2,4,4,5,5,2,1,1,2,3,2,4
+25-34 years old,Maths,Yes,5,4,4,5,4,5,4,5,3,4,5,4,5,5,3,5,4,4
+25-34 years old,data stoytelling,Yes,5,5,3,5,5,4,5,5,5,4,5,5,5,2,4,5,4,5
+25-34 years old,data storytelling,Yes,2,3,5,5,3,2,4,3,3,3,3,3,4,1,4,3,4,2
+25-34 years old,DATA STORYETELLING SURVEY,Yes,5,4,3,2,1,2,3,4,5,5,4,3,1,1,2,3,4,5
+25-34 years old,HELTH CARE,Yes,5,4,5,5,4,5,4,5,4,5,4,5,4,5,4,5,4,5
+25-34 years old,Survey,Yes,4,5,5,5,4,4,5,4,5,4,4,4,3,5,4,4,3,5
+25-34 years old,bechloer dgree,Yes,4,2,1,2,2,1,2,3,1,2,1,2,2,2,2,2,3,2
+25-34 years old,maths,Yes,4,4,5,5,4,3,3,3,3,3,5,3,3,4,4,4,4,5
+25-34 years old,Health care,Yes,5,4,5,4,5,5,4,5,5,4,5,4,5,5,5,4,5,5
+25-34 years old,business and management,No,3,4,4,3,5,3,4,4,3,4,3,4,3,4,4,5,5,5
+25-34 years old,bechloer dgree,Yes,2,3,5,3,1,1,2,1,2,5,2,1,2,2,1,3,2,3
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,5,5
+35-44 years old,Bachelor of science,Yes,4,5,4,4,5,4,5,4,5,5,4,4,5,4,5,5,4,5
+25-34 years old,DATA STORYTELLING SURVERY,Yes,1,1,4,3,3,1,4,2,1,5,1,5,1,4,2,5,2,4
+25-34 years old,Information Technogy,Yes,4,3,5,3,4,3,5,3,5,3,5,4,5,4,3,4,5,4
+25-34 years old,Information Technology,Yes,4,3,5,5,4,3,5,4,3,5,4,5,4,4,3,5,4,5
+25-34 years old,Autocad,Yes,4,5,4,4,5,4,5,5,4,5,4,5,4,5,4,5,5,5
+25-34 years old,BECHOLER DGREE,Yes,1,2,2,1,2,4,2,1,2,3,3,1,1,1,1,3,1,2
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4
+25-34 years old,Software Engineering,Yes,5,4,5,5,5,4,5,4,5,5,4,5,4,5,4,4,5,4
+25-34 years old,,Yes,4,5,4,4,5,4,4,5,4,4,4,5,4,4,5,4,4,5
+25-34 years old,bechloer of dgree,Yes,5,3,2,2,1,4,2,4,1,2,2,5,1,1,2,2,2,2
+25-34 years old,,Yes,5,2,1,2,1,2,5,3,1,1,1,5,2,1,1,1,1,4
+25-34 years old,business and management,No,3,4,4,4,3,4,3,4,3,4,5,3,4,3,4,4,4,4
+25-34 years old,,Yes,3,4,1,5,1,2,1,5,1,3,5,1,2,3,5,3,3,2
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,4,5,3,4,4,5,4,5,4,5,4
+25-34 years old,Medical,Yes,4,5,3,4,5,3,5,4,5,5,4,5,5,3,5,4,5,4
+25-34 years old,,Yes,4,3,5,5,3,5,4,5,3,5,3,5,3,4,4,3,4,5
+25-34 years old,,No,3,4,3,3,4,3,4,3,4,3,3,4,3,3,4,3,4,4
+25-34 years old,physics,Yes,4,5,2,4,5,4,4,4,5,4,5,4,5,4,5,4,4,4
+25-34 years old,physics,Yes,4,5,4,4,5,3,4,5,4,4,5,4,4,4,5,4,5,4
+25-34 years old,Medical,Yes,5,3,5,4,5,3,5,4,5,3,4,4,5,5,3,5,4,4
+25-34 years old,Medical,Yes,4,3,5,4,3,5,3,3,5,4,4,5,3,5,4,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,3,4,5,4,4,5,4,4,5,4,4,5
+25-34 years old,,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5
+25-34 years old,physics,Yes,4,5,4,4,4,5,4,5,4,4,5,4,5,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,4,5,4,5,4,4,4,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,5,4,4,5,4,5,4,5,4,5,5
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,3,4,4,5,4,5,4,5,4
+25-34 years old,physics,Yes,4,4,5,4,5,4,5,4,5,4,4,4,4,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,4,4
+25-34 years old,30,Yes,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,5,3
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,4,4
+25-34 years old,Maths,Yes,5,4,4,4,5,3,5,4,5,4,5,4,5,4,5,4,5,3
+25-34 years old,physics,Yes,4,5,4,4,5,3,4,5,4,4,5,4,4,4,5,4,5,4
+25-34 years old,Maths,Yes,4,5,4,5,4,5,3,4,4,2,4,5,3,5,3,4,3,5
+25-34 years old,Maths,Yes,5,5,4,5,4,5,5,4,5,4,4,5,4,5,4,4,5,4
+25-34 years old,Maths,Yes,4,5,4,5,4,5,4,5,4,5,4,5,4,5,3,4,4,5
+25-34 years old,Maths,Yes,4,5,3,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,5,4,4,5,4,5,4,5,4,4,5
+25-34 years old,Maths,Yes,4,5,3,5,4,4,5,4,2,4,4,3,4,5,4,4,4,5
+25-34 years old,Maths,Yes,5,4,4,5,5,5,4,3,4,4,4,3,4,5,4,4,5,4
+18-24 years old,Finance,Yes,3,4,4,3,4,4,3,4,4,3,3,4,4,3,4,4,4,3
+25-34 years old,Maths,Yes,4,3,5,3,5,4,5,4,5,4,3,4,5,5,4,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,4,5,4,5,4,5,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,5,4,5,4,5,4,4,5,4,4,5
+25-34 years old,,Yes,4,3,2,1,4,2,3,3,2,5,4,5,4,5,4,3,1,2
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,4,4,4,5
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,5,4,5,4,5,4,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,4,4,5,4,4,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,4,5,4,5,3,4,5,4,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,4,5,4,5,4,4,5,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,4,5,4,5,4,4,5,4,5,5,4,5
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,5,4,4,5,4
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5
+25-34 years old,,Yes,1,3,2,3,4,3,3,4,5,2,1,5,2,1,1,3,5,1
+25-34 years old,,Yes,5,3,2,1,4,2,4,3,1,5,4,5,3,2,1,1,3,5
+25-34 years old,team leader,Yes,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+25-34 years old,Information Technology,Yes,3,4,3,3,5,3,5,3,5,5,5,3,5,3,5,4,5,4
+25-34 years old,banking,Yes,5,4,5,5,4,5,5,4,5,5,5,5,4,5,5,5,5,5
+25-34 years old,commerce,Yes,5,4,4,5,5,4,5,4,5,5,5,4,5,5,4,5,4,5
+25-34 years old,physics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4
+25-34 years old,pyhsics,Yes,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5
+25-34 years old,banking,Yes,5,5,4,5,5,4,5,4,5,5,5,5,4,5,5,5,4,5
+25-34 years old,accounts,No,4,5,4,4,3,4,4,5,4,4,4,5,4,4,5,4,4,5
+25-34 years old,bachelor degree,Yes,4,5,5,4,5,5,4,5,5,4,5,4,5,5,5,4,5,5
+25-34 years old,bachelar degree,Yes,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5
+55-64 years old,Civil Engineering,No,2,1,3,1,2,2,1,1,2,2,2,2,2,1,1,2,1,1
