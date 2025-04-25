@@ -4,10 +4,10 @@ This repository contains supplementary materials accompanying the paper "Explori
 
 ## Repository Structure
 
-- **AI Simulation/**  
+- **AI Simulations/**  
   Contains the conversations with ChatGPT for clusters Attentive but Skeptical and Engaged Believers
 
-- **Questionnaire.pdf**
+- **AI Simulations/Questionnaire.pdf**
   Contains the PDF version of the questionnaire attached to each ChatGPT simulation
 
 
